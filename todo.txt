@@ -1,0 +1,7 @@
+1. (done) Creating a react App
+2. (skip) Setting up react-router-dom
+3. Creating login page
+4. fetching data
+5. storing the data in LS
+6. Creating profile page
+7. storing the data in LS
